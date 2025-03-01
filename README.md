@@ -1,8 +1,8 @@
-# Orbiting-Planets
-Simulation of Orbiting Planets
+# Ray-Tracing
+Simulation of Ray Tracing
 
 ## 🎬 Simulation Preview
-![Planetary Simulation](orbiting.gif)
+![Ray Tracing Simulation](Tracing.gif)
 
 ## 🚀 How to Run
 ```sh
